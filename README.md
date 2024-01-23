@@ -2,7 +2,7 @@
 ---
 - 🇬🇧 I'm an aspiring software engineer in London
 - 🎓 I studied Mathematics with Statistics @ Imperial College London
-- 🎓 I will be studying cloud engineering @ Northcoders (Jan 2024)
+- 🎓 I am currently studying cloud engineering @ Northcoders
 - 👨‍🏫 Right now I'm self-employed as a private tutor for A level further maths and computer science students. I love helping people!
 
 <!--
